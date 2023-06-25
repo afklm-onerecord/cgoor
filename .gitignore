@@ -1,0 +1,14 @@
+target/
+bin/
+
+.classpath
+.project
+.springBeans
+
+.settings/
+.metadata/
+.recommenders/
+
+Servers/
+
+*/MANIFEST.MF
